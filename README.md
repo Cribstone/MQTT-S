@@ -5,6 +5,8 @@ MQTT-S
   Linux Client PUBLISH  ON and OFF message with topic dev/indicator.  
   Arduino Client SUBSCRIBE the topic dev/indicator and receives 'ON' and 'OFF' data  
   to trun on and off the indicator of Arduino.  
+  http://www.youtube.com/watch?v=INa5YznfR-8&feature=youtu.be    
+  
   ![outlook](https://github.com/TomoakiYAMAGUCHI/MQTT-S-Gateway/blob/master/TomyGateway/documents/MQTT-S_outlook.PNG?raw=true)
 
 Supported functions
